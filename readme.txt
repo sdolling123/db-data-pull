@@ -1,0 +1,1 @@
+The purpose of this script is to expose database objects to URL endpoints.
